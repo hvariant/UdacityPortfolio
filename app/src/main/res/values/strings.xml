@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">UdacityPortfolio</string>
+    <string name="list_title">Android Dev Nanodegree</string>
+    <string name="project1">Popular Movies</string>
+    <string name="project2">Stock Hawk!</string>
+    <string name="project3">XYZ Readedr</string>
+    <string name="project4">Material News</string>
+    <string name="project5">Final Project</string>
 </resources>
